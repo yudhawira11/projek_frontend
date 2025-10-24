@@ -7,3 +7,4 @@ Route::get('/', function () {
 });
 
 Route::view(uri:'/login',view:'login');
+Route::view(uri:'/alipage',view:'alipage');
